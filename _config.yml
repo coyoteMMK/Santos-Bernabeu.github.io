@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Javier Maciá
-email: javierms.dev@gmail.com
+title: Santos Bernabeu
+email: santosbaden@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio personal. Javier Maciá Sempere.
   Explora una amplia gama de tutoriales, curiosidades y recursos sobre ingeniería informática en mi wiki.  
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://javierms.dev/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  javier-macia
+url: "https://santosbernabeu.dev/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  coyoteMMK
 date_locale: es
 
 # Build settings
